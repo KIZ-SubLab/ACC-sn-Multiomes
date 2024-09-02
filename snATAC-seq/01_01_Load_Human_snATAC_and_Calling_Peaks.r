@@ -1,3 +1,5 @@
+# If you need the original fragment files for quality control analysis, please contact: wuhaixu@mail.kiz.ac.cn
+
 library(ArchR)
 addArchRThreads(threads = 8)
 addArchRGenome("hg38")
