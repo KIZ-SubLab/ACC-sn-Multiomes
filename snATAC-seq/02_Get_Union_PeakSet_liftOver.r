@@ -1,3 +1,5 @@
+# We have published the information of the union peak set on https://ngdc.cncb.ac.cn/ (BioProject ID is PRJCA015229), and it can be directly accessed.
+
 # Step1: liftOver Macaque Peaks (rheMac10) into hg38
 system("liftOver ../Macaque_ATAC/Peak_df/ArchR/Count_Peaks.bed rheMac10ToHg38.over.chain.gz Macaque_Peaks_hg38.bed Macaque_Peaks_hg38_unmapped.bed")
 
