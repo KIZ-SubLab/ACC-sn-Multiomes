@@ -1,0 +1,12 @@
+﻿data.type,objectID,pathway,species,donor
+multiomes,HM20200905,../HM20200905-reseq-0802,Human,HM20200905
+multiomes,HM20200927,../HM20200927-reseq-0618,Human,HM20200927
+multiomes,HM20201222,../HM20201222-2-reseq,Human,HM20201222
+multiomes,HM20201129,../HM20201129-reseq,Human,HM20201129
+multiomes,RM1102009,../RM1102009-reseq,Macaque,RM1102009
+multiomes,RM07071,../RM07071-2-reseq,Macaque,RM07071
+multiomes,RM07333,../RM07333-reseq,Macaque,RM07333
+snRNA,HM2013017,../scRNA-H2013017,Human,HM2013017
+snRNA,HM20201213,../scRNA-20201213-47/,Human,HM20201213
+snRNA,RM08403,../scRNA-RM08403/,Macaque,RM08403
+snRNA,RM06013,../scRNA-RM06013/,Macaque,RM06013
