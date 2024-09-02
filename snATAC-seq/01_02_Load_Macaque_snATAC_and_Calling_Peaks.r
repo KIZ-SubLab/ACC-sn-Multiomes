@@ -1,3 +1,5 @@
+# If you need the original fragment files for quality control analysis, please contact: wuhaixu@mail.kiz.ac.cn
+
 library(ArchR)
 addArchRThreads(threads = 8)
 rheMac10_UCSC = createGenomeAnnotation(genome='BSgenome.Mmulatta.UCSC.rheMac10')
